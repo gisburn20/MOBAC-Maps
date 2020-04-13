@@ -5,6 +5,6 @@
     <maxZoom>15</maxZoom>
     <tileType>png</tileType>
     <tileUpdate>None</tileUpdate>
-    <url>https://basemap.nationalmap.gov/ArcGIS/rest/services/USGSImageryTopo/MapServer/tile/{$z}/{$y}/{$x}</url>
+    <url>http://basemap.nationalmap.gov/ArcGIS/rest/services/USGSImageryTopo/MapServer/tile/{$z}/{$y}/{$x}</url>
     <backgroundColor>#000000</backgroundColor>
 </customMapSource>

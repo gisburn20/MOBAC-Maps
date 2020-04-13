@@ -1,0 +1,9 @@
+<customMapSource>
+<name>Chartbundle US World Aeronautical Charts with Grids</name>
+<minZoom>4</minZoom>
+<maxZoom>12</maxZoom>
+<tileType>png</tileType>
+<tileUpdate>None</tileUpdate>
+<url>http://wms.chartbundle.com/tms/v1.0/wacgrids/{$z}/{$x}/{$y}.png?type=google</url>
+<backgroundColor>#000000</backgroundColor>
+</customMapSource>
